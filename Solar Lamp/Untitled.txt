@@ -1,0 +1,14 @@
+Solar Outdoor Lamp Thing
+
+What I used:
+
+5V USB plug in bulb
+4xAA Batteries
+2x 5V Panels
+Diode
+LDR
+Plastic Bottle Body
+MT 3608 DC Voltage boost.
+
+
+Plug in panels in parallel, batteries in series, positive of the panels to diode and LDR, then the positive of the batteries. Connect the positive of the batteries to VIN+ on the board
